@@ -1,5 +1,10 @@
 # TEX
 
+- Researh purposes
+- Write papers
+- Documenation
+
+
 #### Resources:
 
 1. [LaTex](https://www.youtube.com/watch?v=ydOTMQC7np0, 'FreeCodeCamp')
